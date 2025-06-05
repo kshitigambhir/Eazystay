@@ -1,4 +1,4 @@
-# 🌍 Airbnb Clone (MERN Stack)
+#  Airbnb Clone (MERN Stack)
 
 A full-stack Airbnb clone built using the **MERN stack** (MongoDB, Express, React, Node.js). Users can explore, list, and book stays just like the real Airbnb platform.
 
@@ -18,7 +18,6 @@ A full-stack Airbnb clone built using the **MERN stack** (MongoDB, Express, Reac
 - 🏡 Add New Listings (with images and description)
 - 🔍 Browse Available Stays
 - 📅 Booking System
-- 👤 User Dashboard
 - 🌐 Fully responsive design
 
 ---
@@ -37,4 +36,6 @@ A full-stack Airbnb clone built using the **MERN stack** (MongoDB, Express, Reac
 # Clone the repository
 git clone https://github.com/your-username/airbnb-clone.git
 cd airbnb-clone
+#to run
+node app.js
 
