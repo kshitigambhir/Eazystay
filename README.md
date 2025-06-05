@@ -25,8 +25,6 @@ A full-stack Airbnb clone built using the **MERN stack** (MongoDB, Express, Reac
 
 ## 🖼️ Preview
 
-> ✨ Add screenshots/gifs here (or actual deployed site demo link if you have one)
-
 ![Homepage](./screenshot/homepage.png)
 ![Signup Page](./screenshot/signup.png)
 ![Login Page](./screenshot/login.png)
