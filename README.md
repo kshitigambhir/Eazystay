@@ -9,8 +9,6 @@ A full-stack Airbnb clone built using the **MERN stack** (MongoDB, Express, Reac
 - **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Authentication:** JSON Web Tokens (JWT), Bcrypt
-- **Others:** Axios, Cloudinary/ImageKit (if used), React Router
 
 ---
 
